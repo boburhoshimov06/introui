@@ -74,7 +74,7 @@ class _IntroPageState extends State<IntroPage> {
                 style: TextStyle(color: Colors.green, fontSize: 18),
               ),
             ),
-          )
+          ),
         ],
       ),
       body: Stack(
