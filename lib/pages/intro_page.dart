@@ -70,7 +70,7 @@ class _IntroPageState extends State<IntroPage> {
             child: Padding(
               padding: EdgeInsets.only(left: 20, right: 20),
               child: Text(
-                'Skip',
+                'Skip and home page',
                 style: TextStyle(color: Colors.green, fontSize: 18),
               ),
             ),
