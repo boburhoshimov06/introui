@@ -104,7 +104,7 @@ class _IntroPageState extends State<IntroPage> {
                 context: Texts.stepThreeContent,
               ),
             ],
-          )
+          ),
         ],
       ),
     );
